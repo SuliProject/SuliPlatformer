@@ -12,7 +12,7 @@ Fegyverek:
 * Burnóczkiné körzője
 
 Beosztás:  
-* Hegyi László: programozás
-* Takács Dániel **"Vladimir"**:grafikai tervezés, ötletek
-* Tarics Ákos rend. és tisztaság felügyelő, rajzolni is probalt...
+* Hegyi László: programozó
+* Takács Dániel **"Vladimir"**:grafikai felület tervező, ötletgazda
+* Tarics Ákos rend. és tisztaság felügyelő, grafikai tervező
 * Kovács Gábor Márk: audio projekt manager
