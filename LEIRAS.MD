@@ -1,7 +1,6 @@
 # Gyakorlati projekt
 Alapkoncepcio:
 * 2D oldalnézet
-* Iskolai környeztben játszdódik
 * Különböző Fegyverek
 
 Fegyverek:
