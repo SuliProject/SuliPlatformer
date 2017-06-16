@@ -1,16 +1,11 @@
 var slo;
 var hatter = new Image();
 function elsoRajzol() {
-  hatter.src="/kepek/hatter.jpg";
+  hatter.src="kepek/hatter.jpg";
 
   var cv = document.getElementById('canvas');
   var ctx = cv.getContext("2d");
-  hatter.onLoad(function(){
-    console.log('laoded')
-  })
-  hatter.onError(function(){{
-    console.log('laodedasd')
-  })
+
   ctx.fillStyle= ctx.createPattern(hatter, 'no-repeat');
 
   ctx.rect(0, 0, 1280, 720);
@@ -26,7 +21,7 @@ function elsoRajzol() {
 function rajzol() {
   var cv = document.getElementById('canvas');
   var ctx = cv.getContext("2d");
-  ctx.fillStyle= ctx.createPattern(hatter, 'no-repeat');
+  ctx.fillStyle= ctx.createPattern(hatter, 'repeat');
   ctx.rect(0, 0, 1280, 720);
   ctx.fill();
   slo.render();
