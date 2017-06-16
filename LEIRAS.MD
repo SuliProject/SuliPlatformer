@@ -13,6 +13,6 @@ Fegyverek:
 
 Beosztás:  
 * Hegyi László: programozó
-* Takács Dániel **"Vladimir"**:grafikai felület tervező, ötletgazda
+* Takács Dániel **"Vladimir"**:grafikai felület tervező
 * Tarics Ákos rend. és tisztaság felügyelő, grafikai tervező
 * Kovács Gábor Márk: audio projekt manager
